@@ -7,7 +7,7 @@ Random games created by ME! In JavaScript, Python, and HTML!
 when you are setting up a game with the template provided, be sure to edit the following:
 
 ### 1. Source Code path (required)
-edit the source code path for your game to work. (line 17)
+edit the source code path for your game to work. (line 21)
 
    HERE&emsp;&emsp;&emsp;\\/
 ```html
@@ -15,6 +15,6 @@ edit the source code path for your game to work. (line 17)
 ```
 
 ### 2. Cascading Style Sheets (optional)
-uncomment line 18-20, and enter the path for your stylesheet.
+uncomment line 22-24, and enter the path for your stylesheet.
 
-The current `<style>` element shouldn't interfere with your stylesheet. (unless you defined .gamearea or .gamecanvas in your stylesheet.)
+The current `<style>` element shouldn't interfere with your stylesheet. (unless you defined .gamearea or .gamecanvas differently in your stylesheet.)
