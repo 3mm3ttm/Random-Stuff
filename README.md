@@ -2,8 +2,7 @@
 Random games created by ME! In JavaScript, Python, and HTML!
 
 > \[!NOTE]
-> beware that when using source code from other games, some content may be copywritten. [@3mm3ttm](https://github.com/3mm3ttm/) is not responsible for misuse or abuse of this source code, and the user at fault is liable for all charges places against them in relation to this matter.
-
+> Beware that when using an application's source code, you have to follow the rules that it's license states. Such a license may or may not be included with the source code.
 ## Setting up a game
 when you are setting up a game with the template provided, be sure to edit the following:
 
