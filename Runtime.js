@@ -1,8 +1,8 @@
-let gameCanvas = document.getElementById("gamearea");
-let ctx = gameCanvas.getContext("2d");
+gameCanvas = document.getElementById("gamearea");
+ctx = gameCanvas.getContext("2d");
 // you can edit FPS to any number below 250. Beyond this, and it will probably break the game.
-let FPS = 30
-let frametime = 1000 / FPS
+FPS = 30
+frametime = 1000 / FPS
 
 export function tick() {
   ctx.reset()
